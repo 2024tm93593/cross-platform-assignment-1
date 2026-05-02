@@ -165,6 +165,9 @@ The third issue was that no user pointer was being saved on task objects. This m
 **Youtube Link:** :
 https://www.youtube.com/watch?v=RfMuzjEBz5g
 
+**Drive Link for the video:** :
+https://drive.google.com/drive/folders/1QU4SbrsvW0_zrbyVoifXOx_2KP4HhlmS?usp=sharing
+
 ---
 
 ## Notes
